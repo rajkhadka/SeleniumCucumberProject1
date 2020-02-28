@@ -10,6 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions
 		(
 		//Place to put feature file
+			// As per the comments, we have changed the line of code
 				
 				features=".//Features/signInSignOut.feature",
 				glue="stepDefinitions"
